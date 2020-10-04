@@ -1,0 +1,602 @@
+@media only screen and (max-width : 1100px) {
+	.container {
+		width: 100%;
+		padding: 0 15px;
+		margin: 0 auto;
+	}
+
+	.efficiency-content .item {
+		width: 50%;
+	}
+}
+
+@media only screen and (max-width : 992px) {
+	header {
+		background-position: center;
+	}
+
+	h2 {
+		font-size: 33px;
+	}
+
+	.head-content .item {
+		width: 25%;
+	}
+
+	.head-content .item p {
+		font-size: 15px;
+	}
+
+	.head-content .item3 {
+		width: 100%;
+		text-align: center;
+		order: 0;
+		margin: 20px auto;
+	}
+
+	.head-content .item3 img {
+		margin: 0 auto;
+	}
+
+	.head-content .item1 {
+		order: 1;
+	}
+
+	.head-content .item2 {
+		order: 2;
+	}
+
+	.head-content .item4 {
+		order: 3;
+	}
+
+	.head-content .item5 {
+		order: 4;
+	}
+
+	.header-list {
+		justify-content: center;
+	}
+
+	.header-list ul {
+		width: 50%;
+		order: 0;
+		margin: 30px auto;
+	}
+
+	.header-list figure {
+		width: 51%;
+		order: 1;
+	}
+
+	.header-form {
+		width: 320px;
+		order: 2;
+	}
+
+	.header-text {
+		margin: 30px auto;
+	}
+
+	.final-text .item p {
+		width: 85%;
+	}
+
+	.efficiency-content .item {
+		width: 50%;
+	}
+
+	.composition-content {
+		justify-content: center;
+	}
+
+	.composition-content .item {
+		width: 40%;
+		margin: 20px auto;
+	}
+
+	.reasons-content {
+		justify-content: space-around;
+	}
+
+	.reasons-content ul {
+		width: 50%;
+		order: 0;
+	}
+
+	.reasons-content .sublex-img {
+		width: 51%;
+		order: 1;
+	}
+
+	.get-content {
+		justify-content: space-around;
+	}
+
+	.get-content .item {
+		width: 30%;
+	}
+
+	.certificate-content {
+		padding-bottom: 300px;
+	}
+
+	.certificate-content .text {
+		width: 100%;
+		text-align: center;
+	}
+
+	.trust-img-block {
+		width: 705px;
+		margin: 20px auto;
+	}
+
+	.trust-text {
+		width: 250px;
+		margin: 0 auto;
+	}
+
+	.specialist .text {
+		width: 50%;
+	}
+
+	.video-reviews {
+		justify-content: space-around;
+	}
+
+	.video-reviews .item {
+		width: 45%;
+		margin: 20px auto;
+	}
+
+	.text-reviews .item .info {
+		width: 20%;
+	}
+
+	.text-reviews .item .text {
+		width: 75%;
+	}
+}
+
+@media only screen and (max-width : 767px) {
+	.head-content .item {
+		width: 48%;
+		margin: 10px 0;
+	}
+
+	.head-content .item3 {
+		width: 100%;
+	}
+
+	h1 {
+		font-size: 25px;
+	}
+
+	h2 {
+		font-size: 20px;
+	}
+
+	.header-text .price,
+	.header-text .price .text {
+		font-size: 20px;
+	}
+
+	.flip-clock-wrapper ul {
+		width: 40px;
+	}
+
+	.clock, .clock2, .clock3 {
+		width: 460px;
+	}
+
+	.flip-clock-divider .flip-clock-label {
+		right: -63px;
+	}
+
+	.flip-clock-divider.minutes .flip-clock-label {
+		right: -63px;
+	}
+
+	.flip-clock-divider.seconds .flip-clock-label {
+		right: -63px;
+	}
+
+	.header-list ul {
+		width: 100%;
+		padding-left: 30px;
+	}
+
+	.header-list figure {
+		width: 100%;
+		text-align: center;
+	}
+
+	.header-form {
+		margin-top: 20px;
+	}
+
+	.final-text .item {
+		width: 100%;
+		margin: 20px auto;
+	}
+
+	.final-text .item p {
+		font-size: 15px;
+	}
+
+	.whow-content,
+	.composition-content {
+		margin-top: 0;
+	}
+
+	.efficiency-content .item {
+		width: 100%;
+	}
+
+	.composition-content .item {
+		width: 48%;
+	}
+
+	.reasons-content ul {
+		width: 100%;
+		padding-left: 30px;
+	}
+
+	.reasons-content .item {
+		width: 100%;
+		text-align: center;
+	}
+
+	.reasons-text .price {
+		font-size: 20px;
+	}
+
+	.certificate-content {
+		padding-top: 40px;
+	}
+
+	.certificate-content .certificate-img1 {
+		right: 40%;
+	}
+
+	.trust-img-block {
+		width: 100%;
+	}
+
+	.specialist .text {
+		width: 60%;
+	}
+
+	.specialist .text p span {
+		font-size: 17px;
+	}
+
+	.differences-content .item figure {
+		width: 100%;
+		text-align: center;
+		margin-bottom: 10px;
+	}
+
+	.differences-content .text {
+		width: 100%;
+		text-align: center;
+	}
+
+	.text-reviews .item .info {
+		width: 100%;
+		text-align: center;
+	}
+
+	.text-reviews .item .text {
+		width: 100%;
+		text-align: center;
+		margin-top: 15px;
+	}
+
+	.text-reviews .item2 .info {
+		order: 0;
+	}
+
+	.text-reviews .item2 .text {
+		order: 1;
+	}
+
+	.questions-content {
+		padding: 20px 30px 60px 20px;
+	}
+
+	.question-item .question {
+		margin: 20px auto;
+	}
+
+	.order-content {
+		margin-top: 0;
+	}
+
+	.reasons .h1 {
+		font-size: 25px;
+	}
+
+	footer .item {
+		width: 100%;
+		text-align: center;
+		margin: 10px auto;
+	}
+
+	.nonebox {
+		width: 90%;
+	    transform: translate(-50%, -40%);
+	}
+
+	.call-box {
+		width: auto;
+	}
+
+	.call-form figure {
+		width: 100%;
+	}
+
+	.call-form form {
+		width: 100%;
+	}
+
+	.nonebox3 .call-form figure,
+	.call-form figure {
+		display: none;
+	}
+}
+
+@media only screen and (max-width : 549px) {
+	.head-content .item {
+		width: 100%;
+	}
+
+	h1 {
+		font-size: 20px;
+	}
+
+	h6 {
+		font-size: 15px;
+	}
+
+	.header-text .price,
+	.header-text .price .text {
+		font-size: 15px;
+	}
+
+	.clock, .clock2, .clock3 {
+		width: 300px;
+		margin-bottom: 10px;
+	}
+
+	.flip-clock-wrapper ul {
+		width: 23px;
+		height: 60px;
+	}
+
+	.flip-clock-divider {
+		width: 10px;
+	}
+
+	.flip-clock-dot {
+		width: 5px;
+		height: 5px;
+	}
+
+	.flip-clock-wrapper ul li a div div.inn {
+		font-size: 30px;
+	}
+
+	.flip-clock-wrapper ul li {
+		line-height: 60px;
+	}
+
+	.flip-clock-divider {
+		height: 75px;
+	}
+
+	.flip-clock-dot {
+		left: 3px;
+	}
+
+	.flip-clock-divider .flip-clock-label {
+		right: -40px;
+	}
+
+	.flip-clock-divider.minutes .flip-clock-label {
+		right: -45px;
+	}
+
+	.flip-clock-divider.seconds .flip-clock-label {
+		right: -49px;
+	}
+
+	.header-list ul {
+		margin: 0 auto;
+	}
+
+	.header-list ul li {
+		font-size: 18px;
+	}
+
+	.header-form {
+		width: 280px;
+	}
+
+	.header-form input[type="text"], .header-form input[type="tel"] {
+		width: 250px;
+	}
+
+	.btn {
+		width: 250px;
+	}
+
+	[type="checkbox"]:not(:checked) + label:before,
+	 [type="checkbox"]:checked + label:before {
+	 	left: 15px;
+	 }
+
+	 h2 span {
+	 	line-height: 27px;
+	 }
+
+	 .efficiency .block-zg {
+	 	width: 100%;
+	 	font-size: 17px;
+	 }
+
+	 .efficiency-content .item {
+	 	width: 90%;
+	 	height: 230px;
+	 	margin: 10px auto;
+	 	background-size: contain;
+	 }
+
+	 .whow-content .item4 {
+	 	width: 280px;
+	 }
+
+	 .composition-content .item {
+	 	width: 100%;
+	 }
+
+	 .get-content .item {
+	 	width: 45%;
+	 }
+
+	 .get-content .item .text {
+	 	font-size: 16px;
+	 }
+
+	 [type="checkbox"]:not(:checked) + label:after,
+	 [type="checkbox"]:checked + label:after {
+	 	left: 20px;
+	 }
+
+	 .certificate-content .certificate-img1 {
+	 	position: static;
+    	margin: 10px auto;
+    	text-align: center;
+	 }
+
+	 .certificate-content .certificate-img2 {
+		position: static;
+    	margin: 10px auto;
+    	text-align: center;	 	
+	 }
+
+	 .certificate-content {
+	 	padding-bottom: 0;
+	 }
+
+	 .trust-icon .item2 {
+		order: 0;
+		width: 33%;
+	 }
+
+	 .trust-icon .item3 {
+		order: 1;
+		width: 33%;
+	 }
+
+	 .trust-icon .item4 {
+		order: 2;
+		width: 33%;
+	 }	 
+
+	.trust-icon .item1 {
+		order: 3;
+		width: 100%;
+		margin-top: 15px;
+	 }	
+
+	 .specialist .text {
+	 	width: 100%;
+	 }
+
+	 .specialist {
+	 	background: black;
+	 }
+
+	 .video-reviews .item {
+	 	width: 100%;
+	 	text-align: center;
+	 }
+
+	 .audio-reviews .zg {
+	 	font-size: 16px;
+	 }
+
+	 .audio-reviews-block {
+	 	padding: 20px;
+	 }
+
+	 .question-item .question {
+	 	font-size: 16px;
+	 }
+
+	 .question-item .question span {
+	 	line-height: 20px;
+	 }
+
+	 .order-content .item {
+	 	width: 100%;
+	 	text-align: center;
+	 }
+
+	 .reasons .h1 {
+	 	font-size: 20px;
+	 }
+
+	 .nonebox {
+	 	height: 400px;
+	 	overflow: auto;
+	 }
+
+	 .call-box {
+	 	width: 300px;
+	 	padding: 0 30px;
+	 }
+
+	 .call-form form {
+	 	margin-top: 0;
+	 	padding-top: 5px;
+	 }
+
+	 .call-box input[type="text"],
+	 .call-box input[type="tel"] {
+	 	width: 100%;
+	 }
+
+	.call-box .reasons-form .name:after,
+	.call-box .reasons-form .tel:after {
+		right: 15px;
+	}
+
+	.call-box .btn {
+		width: 100%;
+	}
+
+	.form-price,
+	.form-price .text {
+		font-size: 18px;
+	}
+
+	.header-form .check {
+		font-size: 12px;
+	}
+
+	.call-form .btn {
+		margin: 5px auto;
+	}
+
+	.nonebox3 {
+		height: 407px;
+		transform: translate(-50%, -40%);
+	}
+
+	.compliance-block {
+		padding: 10px;
+		text-align: left;
+	}
+}
